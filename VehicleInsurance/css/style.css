@@ -26,7 +26,7 @@ a {
 button {
   cursor: pointer;
   border: none;
-  background-color: transparent;
+  background-color: #ed1c24;
   outline: none;
   font-size: 1.6rem;
 }
