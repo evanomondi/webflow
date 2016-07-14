@@ -74,45 +74,45 @@ Images block
 }
 .cd-images-list > li {
   height: 250px;
-  background: #979c9c url(../img/landingPage1.png) no-repeat center center;
+  background: #979c9c url(https://res.cloudinary.com/e-bima/image/upload/v1468489373/landingPage1_exx4vu.png) no-repeat center center;
   background-size: cover;
 }
 .cd-images-list > li:nth-of-type(2) {
-  background: #343642 url(../img/congratulationsPage.png) no-repeat center center;
+  background: #343642 url(https://res.cloudinary.com/e-bima/image/upload/v1468489451/congratulationsPage_jsgt7w.png) no-repeat center center;
   background-size: cover;
 }
 .cd-images-list > li:nth-of-type(3) {
-  background: #982b3c url(../img/VehicleInformation.png) no-repeat center center;
+  background: #982b3c url(https://res.cloudinary.com/e-bima/image/upload/v1468489484/Vehicle_Information_vkbdsg.png) no-repeat center center;
   background-size: cover;
 }
 .cd-images-list > li:nth-of-type(4) {
-  background: #338899 url(../img/QuotesPage.png) no-repeat center center;
+  background: #338899 url(https://res.cloudinary.com/e-bima/image/upload/v1468489517/Quotes_Page_fmgnao.png) no-repeat center center;
   background-size: cover;
 }
 
 .cd-images-list > li:nth-of-type(5) {
-  background: #338899 url(../img/Securinganaccount.png) no-repeat center center;
+  background: #338899 url(https://res.cloudinary.com/e-bima/image/upload/v1468489548/Securing_an_account_alvwlg.png) no-repeat center center;
   background-size: cover;
 }
 
 .cd-images-list > li:nth-of-type(6) {
-  background: #338899 url(../img/SecondaryInformation.png) no-repeat center center;
+  background: #338899 url(https://res.cloudinary.com/e-bima/image/upload/v1468489583/Secondary_Information_wfdq8t.png) no-repeat center center;
   background-size: cover;
 }
 
 .cd-images-list > li:nth-of-type(7) {
-  background: #338899 url(../img/Disclaimer.png) no-repeat center center;
+  background: #338899 url(https://res.cloudinary.com/e-bima/image/upload/v1468489613/Disclaimer_tjcqud.png) no-repeat center center;
   background-size: cover;
 }
 
 .cd-images-list > li:nth-of-type(8) {
-  background: #338899 url(../img/Checkout.png) no-repeat center center;
+  background: #338899 url(https://res.cloudinary.com/e-bima/image/upload/v1468489642/Checkout_udgdhz.png) no-repeat center center;
   background-size: cover;
 }
 
 
 .cd-images-list > li:nth-of-type(9) {
-  background: #338899 url(../img/paymentPage.png) no-repeat center center;
+  background: #338899 url(https://res.cloudinary.com/e-bima/image/upload/v1468489670/payment_Page_p0qxgl.png) no-repeat center center;
   background-size: cover;
 }
 
