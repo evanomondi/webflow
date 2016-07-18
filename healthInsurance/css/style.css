@@ -86,51 +86,56 @@ Images block
   
 }
 .cd-images-list > li:nth-of-type(4) {
-  background: #dedede url(https://res.cloudinary.com/e-bima/image/upload/v1468836503/VehicleInformation2_mkygjb.jpg) no-repeat center center;
+  background: #dedede url(https://res.cloudinary.com/e-bima/image/upload/v1468852198/primary_section2_nsj4aq.jpg) no-repeat center center;
  
 }
 .cd-images-list > li:nth-of-type(5) {
-  background: #dedede url(http://res.cloudinary.com/e-bima/image/upload/v1468836502/quotes3_vzzaqk.jpg) no-repeat center center;
+  background: #dedede url(https://res.cloudinary.com/e-bima/image/upload/v1468852199/quotes3_ohot80.jpg) no-repeat center center;
  
 }
 
 .cd-images-list > li:nth-of-type(6) {
-  background: #dedede url(http://res.cloudinary.com/e-bima/image/upload/v1468836503/secondaryInformation4_nhyg8a.jpg) no-repeat center center;
+  background: #dedede url(https://res.cloudinary.com/e-bima/image/upload/v1468852199/secondaryInformation4_n6o4le.jpg) no-repeat center center;
   
 }
 
 .cd-images-list > li:nth-of-type(7) {
-  background: #dedede url(https://res.cloudinary.com/e-bima/image/upload/v1468836501/deliveryInformation5_xn7yvj.jpg) no-repeat center center;
+  background: #dedede url(https://res.cloudinary.com/e-bima/image/upload/v1468852198/addingAdependant4_ohvlih.jpg) no-repeat center center;
   
 }
 
 .cd-images-list > li:nth-of-type(8) {
-  background: #dedede url(https://res.cloudinary.com/e-bima/image/upload/v1468836499/coupon6_nqccn0.jpg) no-repeat center center;
+  background: #dedede url(https://res.cloudinary.com/e-bima/image/upload/v1468853558/deliveryInformation5_cbylgb.jpg) no-repeat center center;
+  
+}
+
+.cd-images-list > li:nth-of-type(9) {
+  background: #dedede url(https://res.cloudinary.com/e-bima/image/upload/v1468852196/coupon6_hzjdme.jpg) no-repeat center center;
   
 }
 
 
-.cd-images-list > li:nth-of-type(9) {
-  background: #dedede url(https://res.cloudinary.com/e-bima/image/upload/v1468836503/Checkout7_j0lpsi.jpg) no-repeat center center;
+.cd-images-list > li:nth-of-type(10) {
+  background: #dedede url(https://res.cloudinary.com/e-bima/image/upload/v1468852196/Checkout7_ou2dil.jpg) no-repeat center center;
  
 }
 
-.cd-images-list > li:nth-of-type(10) {
-  background: #dedede url(https://res.cloudinary.com/e-bima/image/upload/v1468836500/DisclaimerInformation8_h8phn5.jpg) no-repeat center center;
-  
-}
-
 .cd-images-list > li:nth-of-type(11) {
-  background: #dedede url(https://res.cloudinary.com/e-bima/image/upload/v1468836502/PayementSection9_jevxag.jpg) no-repeat center center;
+  background: #dedede url(https://res.cloudinary.com/e-bima/image/upload/v1468852196/DisclaimerInformation8_lnocf9.jpg) no-repeat center center;
   
 }
 
 .cd-images-list > li:nth-of-type(12) {
-  background: #dedede url(https://res.cloudinary.com/e-bima/image/upload/v1468836504/TertiaryInformation10_k1hloc.jpg) no-repeat center center;
+  background: #dedede url(https://res.cloudinary.com/e-bima/image/upload/v1468836502/PayementSection9_jevxag.jpg) no-repeat center center;
   
 }
 
 .cd-images-list > li:nth-of-type(13) {
+  background: #dedede url(https://res.cloudinary.com/e-bima/image/upload/v1468836504/TertiaryInformation10_k1hloc.jpg) no-repeat center center;
+  
+}
+
+.cd-images-list > li:nth-of-type(14) {
   background: #dedede url(https://res.cloudinary.com/e-bima/image/upload/v1468836502/uploadSection11_qtt85x.jpg) no-repeat center center;
   
 }
